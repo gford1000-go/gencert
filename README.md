@@ -43,5 +43,5 @@ func main() {
 This command line is all you need.
 
 ```
-go get github.com/gford1000-go/x509
+go get github.com/gford1000-go/gencert
 ```
