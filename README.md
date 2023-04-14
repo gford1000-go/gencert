@@ -1,5 +1,5 @@
-[![Go Doc](https://pkg.go.dev/badge/github.com/gford1000-go/x509.svg)](https://pkg.go.dev/github.com/gford1000-go/x509)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gford1000-go/x509)](https://goreportcard.com/report/github.com/gford1000-go/x509)
+[![Go Doc](https://pkg.go.dev/badge/github.com/gford1000-go/gencert.svg)](https://pkg.go.dev/github.com/gford1000-go/gencert)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gford1000-go/gencert)](https://goreportcard.com/report/github.com/gford1000-go/gencert)
 
 gencert
 =======
